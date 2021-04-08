@@ -1,0 +1,9 @@
+{
+    "display_name": "Famous Quotes",
+    "quotes": [
+        {"quote": "The quick brown fox jumps over the lazy dog", "author": "The Boston Journal"},
+        {"quote": "I have no special talent. I am only passionately curious.", "author": "Albert Einstein"},
+        {"quote": "Dont count the days, make the days count.", "author": "Muhammad Ali"},
+        {"quote": "A delayed game is eventually good, a bad game is bad forever.", "author": "Shigeru Miyamoto"}
+    ]
+}

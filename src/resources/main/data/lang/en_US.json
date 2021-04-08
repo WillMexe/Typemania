@@ -1,0 +1,8 @@
+{
+    "typemania.main_screen.play": "Play",
+    "typemania.main_screen.options": "Options",
+    "typemania.main_screen.exit": "Exit",
+
+    "typemania.options.show_fps": "Show FPS",
+    "typemania.options.reset_save": "Reset Save"
+}

@@ -1,0 +1,8 @@
+{
+    "typemania.main_screen.play": "Spela",
+    "typemania.main_screen.options": "Installningar",
+    "typemania.main_screen.exit": "Avsluta",
+
+    "typemania.options.show_fps": "Visa FPS",
+    "typemania.options.reset_save": "Aterstall sparfil"
+}

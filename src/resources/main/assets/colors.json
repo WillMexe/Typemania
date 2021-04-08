@@ -1,0 +1,15 @@
+{
+    "notification.border": "#495b66",
+    "notification.fill": "#c5d4de",
+    "notification.text": "#272a2e",
+
+    "options.background": "#141517",
+    "options.text": "#ebeff5",
+    
+    "typemania.background": "#435560", 
+    "typemania.marker": "#6e7c7c", 
+    "typemania.text": "#c8c6a7", 
+    "typemania.dark_text": "#92967d",
+    "typemania.result_screen_panels": "#576974",
+    "typemania.result_screen_front": "#4d5f6a"
+}
